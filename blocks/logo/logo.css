@@ -1,3 +1,9 @@
 .logo {
-  
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 43px;
+  height: 35px;
+  background-image: url(../../images/logo/header-heart.svg);
+  background-repeat: no-repeat;
 }
