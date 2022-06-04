@@ -1,7 +1,15 @@
 .header{
   margin: 0;
-  padding: 0;
-  height: 61px;
+  padding: 12px 20px 0 30px;
+  box-sizing: border-box;
+  padding-bottom: 500px;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 43px auto auto auto;
+  align-items: center;
+  height: 50px;
   width: 100%;
   max-width: 1440px;
+  color: black;
+  border-bottom: 1px solid black;
 }
